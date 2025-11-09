@@ -2,7 +2,7 @@
 # Stock Analysis Tool - Financial Thumb Rules Calculator
 
 **Version:** 1.0  
-**Last Updated:** January 2025  
+**Last Updated:** November 2025  
 **Status:** Initial Release
 
 ---
