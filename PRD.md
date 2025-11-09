@@ -445,7 +445,7 @@ This tool implements thumb rules and principles from:
 
 ## 14. Contact & Support
 
-**GitHub Repository:** [Your Repository URL]
+**GitHub Repository:** [https://github.com/kaustuv96/Stock-Analysis-Tool]
 
 **Issues & Bug Reports:** Use GitHub Issues
 
@@ -459,9 +459,9 @@ This tool implements thumb rules and principles from:
 
 ## 15. Approval & Sign-off
 
-**Product Owner:** [Name]  
-**Technical Lead:** [Name]  
-**Release Date:** January 2025  
+**Product Owner:** Kaustuv  
+**Technical Lead:** NA  
+**Release Date:** November 2025  
 **Version:** 1.0
 
 ---
